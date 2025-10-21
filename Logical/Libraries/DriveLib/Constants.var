@@ -1,0 +1,6 @@
+VAR CONSTANT
+	maxSpeed : INT := 890;
+	minSpeed : INT := 89;
+	maxFreq : USINT := 10;
+	cycleTime : USINT := 2;
+END_VAR
